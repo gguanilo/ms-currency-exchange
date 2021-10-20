@@ -1,1 +1,2 @@
-# ms-currency-exchange
+# currency-exchange
+Everis Challenge
